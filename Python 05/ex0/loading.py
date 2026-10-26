@@ -3,7 +3,6 @@ import importlib.util
 REAGENTS: dict[str, str] = {
     "pandas": "Data manipulation",
     "numpy": "Numerical computation",
-    "broken": "Test",
 }
 
 
